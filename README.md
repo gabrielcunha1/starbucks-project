@@ -14,6 +14,6 @@ Nesse projeto tive grandes ensinamentos sobre:
 
 ## Screenshots
 
-![Imgur](https://imgur.com/undefined)
+![Imgur](https://imgur.com/GTBMJIE)
 ![Imgur](https://imgur.com/UoigN6B)
 ![Imgur](https://imgur.com/x0CKEjl)
