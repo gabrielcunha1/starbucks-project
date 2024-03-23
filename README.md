@@ -9,7 +9,7 @@ In this project I learned a lot about:
 
 ## Project deploy
 
-- [Site do projeto](https://gabrielcunha1.github.io/starbucks-project/) ☕
+- [Project website](https://gabrielcunha1.github.io/starbucks-project/) ☕
 
 ## Screenshots
 
