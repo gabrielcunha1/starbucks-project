@@ -1,14 +1,13 @@
-# Projeto Starbucks ☕
+# Starbucks Project☕
 
-Projeto realizado nas aulas do Online Tutorials
+Project carried out in Online Tutorials classes
 
-Nesse projeto tive grandes ensinamentos sobre:
-- Mentalidade; 🧠
-- Linguagem de marcação HTML; 🦴
-- Linguagem de estilização CSS; 🎨
-- Linguagem de programação JavaScript. ‍💻
+In this project I learned a lot about:
+- HTML markup language; 📝   
+- CSS styling language; 🎨
+- JavaScript programming language. ‍💻
 
-## Deploy do projeto
+## Project deploy
 
 - [Site do projeto](https://gabrielcunha1.github.io/starbucks-project/) ☕
 
